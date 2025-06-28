@@ -17,7 +17,7 @@
         "blip_sound": "quad://sounds/blip-04.sound.json",
         "coin_00_sound": "quad://sounds/coin-00.sound.json"
     },
-    "version": 0,
+    "version": 0.01,
     "min_players": 1,
     "max_players": 1,
     "cooperative": false,
