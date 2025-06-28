@@ -16,7 +16,7 @@ const ball = make_entity({
 frame
 ────────────────────────────────────────────────────────────────────────
 if joy.aa:
-    play_sound(coin_000_sound)
+    play_sound(coin_00_sound)
 
 let sprite = astronaut.idle[0]
 if joy.x:
