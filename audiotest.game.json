@@ -17,7 +17,7 @@
         "blip_sound": "quad://sounds/blip-04.sound.json",
         "coin_00_sound": "quad://sounds/coin-00.sound.json"
     },
-    "version": 0.01,
+    "version": "0.02",
     "min_players": 1,
     "max_players": 1,
     "cooperative": false,
@@ -46,5 +46,7 @@
             }
         }
     },
-    "screenshot_tag": "AudioTest"
+    "screenshot_tag": "AudioTest",
+    "show_start_animation": false,
+    "mobile_touch_gamepad": true
 }
